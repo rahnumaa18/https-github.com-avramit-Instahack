@@ -1,6 +1,7 @@
 
 '''
 TODO LIST:
+	*Rewrite the whole fucking code
 	Fix and make proxy function better
 	Sort code again
 	Add help function to all "Yes/no" questions
