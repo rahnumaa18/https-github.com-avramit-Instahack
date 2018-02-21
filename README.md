@@ -8,6 +8,9 @@ Example: "python instabrute.py username passwords.txt"
 ```bash
 python instabrute.py USERNAME PASSWORD_FILE
 ```
+## Todo List
+- [x] Finish the base
+- [ ] Proxy things improvement
 
 
 ###### [*] Hack instagram accounts use bruteforce
