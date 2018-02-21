@@ -1,4 +1,4 @@
-#21 (Today) - Sorry i am late, i rewrite the whole shit again (-:
+# 21 (Today) - Sorry i am late, i rewrite the whole shit again (-:
 # 20 February 2018 - Big update ! Wait and see 
 
 
