@@ -12,6 +12,12 @@ python instabrute.py USERNAME PASSWORD_FILE
 - [x] Finish the base
 - [ ] Proxy things improvement
 
+## Modules
+argparse
+requests
+PySocks
+asyncio
+proxybroker
 
 ###### [*] Hack instagram accounts use bruteforce
 ![alt tag](https://raw.githubusercontent.com/avramit/instahack/master/screenshot.png)
