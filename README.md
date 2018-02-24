@@ -3,8 +3,8 @@
 # Instahack (Instabrute)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ARVABYAUX3NPC)
 
-## Please dont open a new issue before you search if issue already exists
-# Please open issue with clear name
+### Please dont open a new issue before you search if issue already exists
+### Please open issue with clear name
 
 ## How to use
 Example: "python instabrute.py username passwords.txt"
